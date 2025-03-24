@@ -4,4 +4,5 @@ A demo app for React and Django Deployment
 docker-compose down
 docker-compose up -d
 
-docker compose up mine for the jenkins and testing webhook
+docker compose up mine for the jenkins and testing webhook 
+this is after starting githook option in server
