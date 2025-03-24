@@ -6,3 +6,6 @@ docker-compose up -d
 
 docker compose up mine for the jenkins and testing webhook 
 this is after starting githook option in server
+
+
+hoping it works
